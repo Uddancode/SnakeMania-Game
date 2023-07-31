@@ -1,6 +1,6 @@
 # SnakeMania-Game
 
-It's the where most of us played at the first time in the childhood which were installed in the old phone.
+It's the game where most of us played at the first time in the childhood which were installed in the old phone.
 
 I have recreated the game in the Bigger screen in WebView..😊😊😊
 
